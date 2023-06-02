@@ -1,0 +1,8 @@
+Instructions for MCO2.ChatBot.pl
+
+1. The user has to make sure they have a working version of SWI-Prolog installed on their machine.
+2. Run the MCO2_ChatBot.exe file
+
+Instructions for MCO2_ChatBot.pl
+1. Follow step 1 above.
+2. input "begin()." (excluding the " ")
